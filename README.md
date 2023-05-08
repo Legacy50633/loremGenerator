@@ -1,0 +1,3 @@
+# loremGenerator
+This project will create random paragraphs as per users wish ... 
+The purpose is to get practiced on hook states
